@@ -1,0 +1,15 @@
+h1{
+    color: rgb(217, 127, 127);
+}
+p{
+  color:rgb(217, 208, 30) ;
+}
+#hh1{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+.class{
+    color: greenyellow;
+    font-size: 40px;
+}
